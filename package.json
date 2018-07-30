@@ -1,0 +1,26 @@
+{
+  "name": "arma-admin-front",
+  "version": "0.1.0",
+  "description": "Front-end for https://github.com/shadez95/go-arma-admin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shadez95/arma-admin-front.git"
+  },
+  "author": "shadez95 aka Dixon Begay",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/shadez95/arma-admin-front/issues"
+  },
+  "homepage": "https://github.com/shadez95/arma-admin-front#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
