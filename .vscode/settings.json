@@ -1,0 +1,6 @@
+{
+    "eslint.autoFixOnSave": true,
+    "eslint.alwaysShowStatus": true,
+    "prettier.eslintIntegration": true,
+    "javascript.format.enable": false
+}
